@@ -1,0 +1,2 @@
+// deployed contract address (can be tracked on kovan testnet)
+deployedContractAddress = '0x0360c2436619f43F48898361831446a90FA84Fa5'
